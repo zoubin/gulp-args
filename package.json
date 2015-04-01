@@ -1,0 +1,24 @@
+{
+  "name": "gulp-args",
+  "version": "1.0.0",
+  "description": "gulp plugin for handling cli args",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zoubin/gulp-args.git"
+  },
+  "keywords": [
+    "gulp",
+    "parameter",
+    "argument"
+  ],
+  "author": "zoubin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zoubin/gulp-args/issues"
+  },
+  "homepage": "https://github.com/zoubin/gulp-args",
+  "dependencies": {
+    "minimist": "^1.1.1"
+  }
+}
