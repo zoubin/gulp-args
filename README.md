@@ -1,5 +1,7 @@
 # gulp-args
-plugin for handling gulp cli parameters
+A plugin for handling gulp cli parameters.
+
+Right now just a wrapper of [minimist](https://github.com/substack/minimist)
 ## Usage
 ```
 var plugins = require('gulp-load-plugins')();
